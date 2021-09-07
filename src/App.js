@@ -12,3 +12,5 @@ function App() {
 }
 
 export default App
+// basename="/grand-mark"
+// "homepage": "http://domotswiri.github.io/grand-mark/",

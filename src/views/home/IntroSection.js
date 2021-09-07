@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function IntroSection() {
   return (
-    <section className="ds intro_section">
+    <section className="ds intro_section" style={{paddingBottom: '70px'}}>
       <div className="flexslider vertical-nav">
         <ul className="slides">
 

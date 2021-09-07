@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function PageMainSlider() {
   return (
-    <section class="ds ms intro_section page_mainslider">
+    <section class="ds ms intro_section page_mainslider"  style={{ paddingBottom: '70px'}}>
       <div class="owl-carousel page_maincarousel" data-margin="0" data-nav="true" data-loop="true" data-items="4">
 
         <div>

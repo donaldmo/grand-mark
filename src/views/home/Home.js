@@ -15,10 +15,10 @@ export default function Home() {
   return (
     <div id="canvas">
       <div id="box_wrapper">
+        <IntroSection />
         <PageMainSlider />
         <PageTestimonials />
         <PageModels />
-        <IntroSection />
         <BeModel />
         <FeaturedModels />
         <BlogSection />
