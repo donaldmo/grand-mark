@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grand-mark/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/grand-mark/static/js/main.fd5d4d69.chunk.js",
+    "main.js.map": "/grand-mark/static/js/main.fd5d4d69.chunk.js.map",
+    "runtime-main.js": "/grand-mark/static/js/runtime-main.0fd6908c.js",
+    "runtime-main.js.map": "/grand-mark/static/js/runtime-main.0fd6908c.js.map",
+    "static/js/2.eb55936f.chunk.js": "/grand-mark/static/js/2.eb55936f.chunk.js",
+    "static/js/2.eb55936f.chunk.js.map": "/grand-mark/static/js/2.eb55936f.chunk.js.map",
+    "index.html": "/grand-mark/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/grand-mark/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eb55936f.chunk.js.LICENSE.txt": "/grand-mark/static/js/2.eb55936f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fd6908c.js",
+    "static/js/2.eb55936f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fd5d4d69.chunk.js"
+  ]
+}
